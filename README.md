@@ -76,8 +76,8 @@ Developed a **C lexical analyzer** to identify and classify tokens such as keywo
 
 ## 📊 GitHub Stats
 
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamchaudhari&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchaudhari&layout=compact&theme=tokyonight)
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamchaudhari007&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchaudhari007&layout=compact&theme=tokyonight)
 
 ---
 
