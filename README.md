@@ -83,8 +83,8 @@ Developed a **C lexical analyzer** to identify and classify tokens such as keywo
 
 ## 🌐 Connect With Me
 
-📧 **Email:** [shubhamchaudhari508@gmail.com](mailto:shubhamchaudhari508@gmail.com)  
-🔗 **LinkedIn:** [www.linkedin.com/in/shubham-chaudhari-102672260](https://www.linkedin.com/in/shubham-chaudhari-102672260)  
+📧 Email: [shubhamchaudhari508@gmail.com](mailto:shubhamchaudhari508@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shubham-chaudhari-102672260)  
 
 ---
 
