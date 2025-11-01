@@ -77,9 +77,22 @@ Developed a **C lexical analyzer** to identify and classify tokens such as keywo
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamchaudhari007&show_icons=true&theme=tokyonight&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchaudhari007&layout=compact&theme=tokyonight&border_color=30363d&hide_border=false" height="200" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shubhamchaudhari007&show_icons=true&theme=tokyonight&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true" 
+    alt="Shubham's GitHub Stats"
+    height="200" 
+    style="border-radius: 10px; box-shadow: 0 0 10px #0f0f0f;"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchaudhari007&layout=compact&theme=tokyonight&border_color=30363d&hide_border=false" 
+    alt="Top Languages"
+    height="200"
+    style="border-radius: 10px; box-shadow: 0 0 10px #0f0f0f;"
+  />
+
 </div>
 
 
