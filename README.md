@@ -86,7 +86,7 @@ Developed a **C lexical analyzer** to identify and classify tokens such as keywo
 
 ## 🌐 Connect With Me
 
-<p align="center"> <a href="mailto:shubhamchaudhari1324@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://www.linkedin.com/in/shubham-chaudhari-102672260/"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://github.com/shubhamchaudhari007"><img src="https://skillicons.dev/icons?i=github" /></a> </p> 
+<p align="left"> <a href="mailto:shubhamchaudhari1324@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://www.linkedin.com/in/shubham-chaudhari-102672260/"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://github.com/shubhamchaudhari007"><img src="https://skillicons.dev/icons?i=github" /></a> </p> 
 
 ---
 
