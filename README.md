@@ -69,10 +69,11 @@ Developed a **C lexical analyzer** to identify and classify tokens such as keywo
 
 <p align="left">
   <!-- Common Tools -->
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,pycharm,arduino" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,arduino" />
   <!-- Custom Icons -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Code::Blocks_logo.svg" width="48" height="48" title="Code::Blocks" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Microchip_Technology_logo.svg" width="60" height="48" title="MPLAB X IDE" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" title="C/C++" />
+  <img src="https://i.imgur.com/ZzvAF0B.png" width="48" height="48" title="Code::Blocks" />
+  <img src="https://i.imgur.com/2Y5R8wS.png" width="60" height="48" title="MPLAB X IDE" />
 </p>
 
 ---
