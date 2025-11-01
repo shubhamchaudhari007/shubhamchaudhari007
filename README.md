@@ -71,20 +71,17 @@ Developed a **C lexical analyzer** to identify and classify tokens such as keywo
   <!-- Common Tools -->
   <img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,arduino" />
   <!-- Custom Icons -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" title="C/C++" />
-  <img src="https://i.imgur.com/ZzvAF0B.png" width="48" height="48" title="Code::Blocks" />
-  <img src="https://i.imgur.com/2Y5R8wS.png" width="60" height="48" title="MPLAB X IDE" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Shubham's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shubhamchaudhari007&show_icons=true&theme=dark
-)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamchaudhari007&show_icons=true&theme=tokyonight&border_color=30363d&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchaudhari007&layout=compact&theme=tokyonight&border_color=30363d&hide_border=false" height="165" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchaudhari007&layout=compact&theme=dark
-)
 
 ---
 
