@@ -66,8 +66,8 @@ Developed a **C lexical analyzer** to identify and classify tokens such as keywo
 ---
 
 ## 🧰 Tools & IDEs
-<p align="center"> <img src="https://skillicons.dev/icons?i=vscode,codeblocks,git,github,mysql,pycharm,tensorflow,arduino,raspberrypi" /> </p>
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=vscode" /> <img src="https://skillicons.dev/icons?i=codeblocks " /> git,github,mysql,pycharm,tensorflow,arduino,raspberrypi
+</p>  
 ---
 
 ## 📊 GitHub Stats
