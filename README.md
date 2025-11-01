@@ -77,7 +77,7 @@ Developed a **C lexical analyzer** to identify and classify tokens such as keywo
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
+<div align="left" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=shubhamchaudhari007&show_icons=true&theme=tokyonight&border_color=1f6feb&hide_border=false&include_all_commits=true&count_private=true" 
